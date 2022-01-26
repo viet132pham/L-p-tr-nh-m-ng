@@ -1,0 +1,39 @@
+window
+{
+    background-color:   #353535;
+}
+
+entry
+{
+    background:         gray;
+    color:              white;
+    font-size:          15px;
+    min-width: 200px;
+}
+
+label
+{
+    color:              white;
+    font-size:          18px;
+    margin-right:       15px;
+}
+
+button
+{
+    background:         #343434;
+    border-color:       black;
+    box-shadow:         none;
+    margin:             10px;
+    min-width: 80px;
+    min-height: 30px;
+}
+
+button:hover
+{
+    background:         red;
+}
+
+button:active
+{
+    background:         black;
+}
